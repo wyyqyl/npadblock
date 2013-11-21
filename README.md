@@ -1,0 +1,4 @@
+npadblock
+=======
+
+Empty NPAPI plugin
